@@ -5,4 +5,5 @@ c=a+b
 print(c)
 c=a-b
 d=a+b
+d=a+b
 
